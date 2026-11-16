@@ -1,1 +1,33 @@
-meep
+Postal Project Proposal 
+By: Adriana Jergusova, Spencer Ollmann, Alex Woods
+
+Problem:
+A post man on a college campus is trying to collect and deliver packages to and from each building in the shortest distance possible, with the carrying limit of 15Kg.
+
+Graph:
+
+TBD
+
+Proposed approache:
+
+Greedy ... dijkstra's algorythim
+why? it is a small enough collection of data and paths that the time won't be affected too much.
+
+Package priority:
+
+choose largest and highest priority package and any other smaller package within weight limit and is on the path or going to the same destination.
+
+Division of labor:
+code...:
+- Dijkstra's algo
+- priority queue
+- weight limit implementation
+- distance counter
+
+graphing...
+research...
+presentation... 
+
+Challenges:
+
+Time allignment.
