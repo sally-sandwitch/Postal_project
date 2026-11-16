@@ -233,8 +233,13 @@ def solve(buildings, pathways, deliveries, depot="B16", capacity=15.0):
       - How will you decide which requests to carry together, given
         the capacity limit?
     """
-    raise NotImplementedError("Design and implement your solver here.")
+    plan = [{"building": "B16", "action": "start"}]
+    
 
+
+
+    raise NotImplementedError("Design and implement your solver here.")
+    return plan
 
 if __name__ == "__main__":
     buildings, pathways, deliveries = load_data()
