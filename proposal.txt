@@ -1,4 +1,5 @@
 Postal Project Proposal 
+
 By: Adriana Jergusova, Spencer Ollmann, Alex Woods
 
 Problem:
@@ -7,8 +8,7 @@ to and from each building in the shortest distance possible, with the
 carrying limit of 15Kg.
 
 Graph:
-
-TBD
+On a separate file. 
 
 Proposed approache:
 
@@ -23,15 +23,15 @@ within weight limit and is on the path or going to the same destination.
 
 Division of labor:
 code...:
-- Dijkstra's algo
-- priority queue
-- weight limit implementation
-- distance counter
+- Dijkstra's algorithm: Spencer O
+ + distance counter
+- priority queue: Adriana J
+- weight limit implementation: Alex W
 
-graphing...
-research...
-presentation... 
+graphing: Adriana J
+research: all groupmates
+presentation: all groupmates
 
 Challenges:
 
-team member Time alignment for meetings and project colaboration.
+Team member time alignment for meetings and project collaboration outside of class. 
