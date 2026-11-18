@@ -12,9 +12,9 @@ On a separate file.
 
 Proposed approache:
 
-Greedy ... dijkstra's algorythim
-why? it is a small enough collection of data and paths that the time won't
-be affected too much.
+Greedy using Dijkstra's algorithm since the data is a small enough and the collection of paths
+is small enough that the time won't be affected too much making it faster to run.
+Also theres enough path options that it will most likely choose the shortest path.
 
 Package priority:
 
